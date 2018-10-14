@@ -1,2 +1,2 @@
 # Arduino-7-seg-display
-An counter from 9 to 0 with a 7 segments display in arduino.
+A counter from 99 to 00 with two 7 segments displays in arduino.
